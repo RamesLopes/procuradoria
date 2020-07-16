@@ -19,7 +19,7 @@
         "fullcalendar": "^3.10.1",
         "jquery": "^3.5.0",
         "laravel-mix": "^4.1.4",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "moment": "^2.24.0",
         "popper.js": "^1.16.1",
         "remove-accents": "^0.4.2",
